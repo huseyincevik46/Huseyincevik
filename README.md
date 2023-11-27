@@ -1,6 +1,6 @@
  
-<h1 align="center">Hi 👋, I'm Ahmet GÜR</h1>
-<h3 align="center">I am a computer engineer, and I work in Android Development.</h3>
+<h1 align="center">Hi 👋, I'm HÜSEYİN ÇEVİK</h1>
+<h3 align="center">I am a computer engineer, and I work in FLUTTER and Data Science Development.</h3>
 
 🔭 I'm currently working on Android projects with Kotlin
 
