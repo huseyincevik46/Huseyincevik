@@ -8,7 +8,7 @@
 
 ### Social Media
 <p align="left">
- <a href="https://www.letcode.com/in/huseyincevik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/letcode.svg" alt="huseyincevik" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/huseyincevik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/letcode.svg" alt="huseyincevik" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hüseyin-çevik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hüseyin Çevik" height="30" width="40" /></a>
 <a href="https://www.instagram.com/huseyin_cevik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huseyin_cevik7" height="30" width="40" /></a>
 <hr>
